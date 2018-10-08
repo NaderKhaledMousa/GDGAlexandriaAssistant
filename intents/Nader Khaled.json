@@ -1,0 +1,28 @@
+{
+  "id": "4b2b07a7-4a97-43d9-960a-b40b8799e384",
+  "name": "Nader Khaled",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nader Khaled is a software developer with more than 5 years of professional experience of working in large-scale and enterprise applications using the latest technologies.\nHe is an Organizer at GDG Alexandria since 2015 and he has contributions in the planning and the execution of events such as Google DevFest, Google I/O Extended and many workshops.\nHe is passionate to learn new technologies and he loves to share what he learned with others.\nyou can reach Nader on twitter: @naderkhaled92\nEmail: nadermousa92@gmail.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538953276,
+  "fallbackIntent": false,
+  "events": []
+}

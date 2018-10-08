@@ -1,0 +1,90 @@
+[
+  {
+    "id": "e091bb47-f6df-4260-bf43-c9fbf194b4ef",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Twitter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952644
+  },
+  {
+    "id": "01c93a84-f7e4-4324-9c14-8d37b72abab9",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952644
+  },
+  {
+    "id": "24d4e888-9d98-4fdb-96f3-5475151cdd06",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Meetup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952644
+  },
+  {
+    "id": "b65eff43-0ab7-43c4-94ad-35b0c8a51af7",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952644
+  }
+]

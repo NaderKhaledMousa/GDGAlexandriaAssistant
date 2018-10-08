@@ -1,0 +1,45 @@
+{
+  "id": "6a00b08b-c0eb-4996-903d-d42b5b89b423",
+  "name": "GDG Alexandria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b7ede61-0364-48a8-b9ef-a6f8fe8d8625",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "b218e809-02cc-4dbe-9edf-20061a2361cf",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Google Developer Group (GDG) Alexandria is a non-profit \u0026 non-business community of developers, programmers, coders and any other people having fun with software development. This is the perfect place for developers to share experiences and ideas in a relaxed, enthusiastic, positive, open-minded \u0026 respectful environment.\nReach us on  meetup.com/GDG-Alexandria"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538993320,
+  "fallbackIntent": false,
+  "events": []
+}

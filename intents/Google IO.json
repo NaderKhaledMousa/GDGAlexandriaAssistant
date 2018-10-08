@@ -1,0 +1,28 @@
+{
+  "id": "ec9290d3-da6a-415a-9334-958e407e29e9",
+  "name": "Google IO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Google I/O is a developer festival that was held May 8-10 at the Shoreline Amphitheatre in Mountain View, CA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538952966,
+  "fallbackIntent": false,
+  "events": []
+}

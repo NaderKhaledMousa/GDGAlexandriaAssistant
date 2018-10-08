@@ -1,0 +1,45 @@
+{
+  "id": "45307d04-5e6b-4aea-9f24-b54f5bae8331",
+  "name": "Event",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "63b9b92c-bbf9-4541-aa46-8923df77d80d",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "ec2b8553-c951-43db-800a-93d700a3d2c2",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The next event is GDG Alexandria Devfest 2018, will be at Alexandria, register now : meetup.com/gdgAlexandria"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538953853,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "203278dc-4c1f-43c9-af8a-ef39b7bf6796",
+  "name": "Google",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.\nCEO: Sundar Pichai (Oct 2, 2015–) \nFounded: September 4, 1998, Menlo Park, California, United States\nHeadquarters: Mountain View, California, United States\nSubsidiaries: YouTube, Dialogflow, AdMob, DoubleClick, MORE\nFounders: Larry Page, Sergey Brin\nParent organization: Alphabet Inc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538954227,
+  "fallbackIntent": false,
+  "events": []
+}

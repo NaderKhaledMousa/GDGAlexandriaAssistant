@@ -1,0 +1,43 @@
+{
+  "id": "ca537173-137c-40ec-9105-1f43dc882db3",
+  "name": "GDG Alexandria links",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d006a587-e5d1-4dbe-b5cb-3ea4360b99ec",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "aa91e061-4152-480b-9494-292931687875",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can find us on : Meetup.com/GDG-Alexandria, Facebook.com/GDGAlexandria, GDGAlex.Org, twitter.com/gdgAlexandria"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538952644,
+  "fallbackIntent": false,
+  "events": []
+}

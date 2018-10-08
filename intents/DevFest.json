@@ -1,0 +1,28 @@
+{
+  "id": "3dba101a-dd61-40f9-98dd-e5550dae8056",
+  "name": "DevFest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DevFests are a community, developer events hosted by GDG chapters around the globe focused on community building and learning about Google’s technologies.\nRegister now : meetup.com/GDG-Alexandria"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538993267,
+  "fallbackIntent": false,
+  "events": []
+}

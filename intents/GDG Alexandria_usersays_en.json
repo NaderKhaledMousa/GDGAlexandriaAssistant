@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c3e24a52-7b3a-4fc4-ad34-096751edd0b0",
+    "data": [
+      {
+        "text": "What is GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria?",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538951646
+  },
+  {
+    "id": "7957fbce-e5f8-4463-8957-b2e2e7b5f709",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538951630
+  }
+]

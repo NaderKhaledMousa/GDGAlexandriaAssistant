@@ -1,0 +1,28 @@
+{
+  "id": "0699def6-62a5-4f7c-8c33-4de3ba397286",
+  "name": "WTM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Women Techmakers is a program which provides visibility, community and resources for Women in Technology"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538952044,
+  "fallbackIntent": false,
+  "events": []
+}

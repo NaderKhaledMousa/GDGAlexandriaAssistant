@@ -1,0 +1,28 @@
+{
+  "id": "495f4ca0-09c9-4264-8c9e-c3f160756ee3",
+  "name": "GDG Alexandria Devfest Agenda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GDG Alexandria Devfest 2018 Agenda,\n\n- Registration 9:30 - 10:00 \n- Actions On Google 10:00 - 11:30\n- Coffe break 11:30 - 12:00\n- Machine Learning 12:00 - 1:00\n- Android 1:00 - 2:00\n- Actions On Google  Codelab 2:00 - 3:30\n- Happy Hour and Closing 4:00 - 5:00"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538954105,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "7549299f-70f5-422d-9495-4d13429ca528",
+    "data": [
+      {
+        "text": "GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Organizers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952372
+  },
+  {
+    "id": "3348963f-ad59-4800-aba3-c74b37fe5d00",
+    "data": [
+      {
+        "text": "GDG Alexandria Team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952372
+  },
+  {
+    "id": "86f61360-14b2-43f8-a86a-4a91806bb27f",
+    "data": [
+      {
+        "text": "Who is GDG ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexandria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " team?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538952372
+  }
+]

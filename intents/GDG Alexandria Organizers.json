@@ -1,0 +1,37 @@
+{
+  "id": "3ebd61bd-a330-4b69-a893-aae3c5da0d92",
+  "name": "GDG Alexandria Organizers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bcd1176-8147-4a12-a303-fb3340482e12",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GDG Alexandria Organizers are Nader Khaled, Wessam, Abdallah, Eslam, Heba and others"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538953011,
+  "fallbackIntent": false,
+  "events": []
+}
